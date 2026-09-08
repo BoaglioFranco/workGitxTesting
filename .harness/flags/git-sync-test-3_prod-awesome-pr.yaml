@@ -1,0 +1,13 @@
+fmeResource:
+  flagRef: git_sync_test_3
+  environment: Prod-Awesome pr
+  status: active
+  killed: false
+  impressionsDisabled: false
+  treatments:
+  - name: "on"
+    baseline: false
+    defaultTreatment: false
+  - name: "off"
+    baseline: false
+    defaultTreatment: true
