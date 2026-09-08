@@ -10,6 +10,6 @@ fmeResource:
     baseline: false
     defaultTreatment: false
   - name: "off"
-    description: test_nueva
+    description: otra_descripcion
     baseline: false
     defaultTreatment: true
