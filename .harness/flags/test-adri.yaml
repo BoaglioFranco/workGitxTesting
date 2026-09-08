@@ -1,0 +1,14 @@
+fmeResource:
+  flagRef: test_gitx_4
+  environment: Stg-Awesome pro
+  status: active
+  killed: false
+  impressionsDisabled: false
+  treatments:
+  - name: "on"
+    baseline: false
+    defaultTreatment: false
+  - name: "off"
+    description: test
+    baseline: false
+    defaultTreatment: true
