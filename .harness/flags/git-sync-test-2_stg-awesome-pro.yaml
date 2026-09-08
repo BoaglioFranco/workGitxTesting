@@ -1,0 +1,14 @@
+fmeResource:
+  flagRef: git_sync_test_2
+  environment: Stg-Awesome pro
+  status: active
+  killed: false
+  impressionsDisabled: false
+  treatments:
+  - name: "on"
+    description: aaaa
+    baseline: false
+    defaultTreatment: false
+  - name: "off"
+    baseline: false
+    defaultTreatment: true
