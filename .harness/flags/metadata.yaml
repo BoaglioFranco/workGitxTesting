@@ -1,0 +1,4 @@
+fmeResource:
+  name: test_gitx_4
+  trafficType: user
+  rolloutStatus: Pre-Production
