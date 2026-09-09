@@ -6,7 +6,7 @@ fmeResource:
   impressionsDisabled: false
   treatments:
   - name: "on"
-    description: ac_1234
+    description: test123
     baseline: false
     defaultTreatment: false
   - name: "off"
