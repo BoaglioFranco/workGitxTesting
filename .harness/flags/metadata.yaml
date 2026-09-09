@@ -1,4 +1,5 @@
 fmeResource:
   name: test_gitx_4
+  description: descripcion nueva
   trafficType: user
-  rolloutStatus: Pre-Production
+  rolloutStatus: 0% in Production
