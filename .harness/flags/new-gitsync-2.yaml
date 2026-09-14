@@ -1,4 +1,5 @@
 fmeResource:
   name: new_gitsync_2
+  description: s
   trafficType: user
   rolloutStatus: Pre-Production
