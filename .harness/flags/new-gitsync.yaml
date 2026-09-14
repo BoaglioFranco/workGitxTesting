@@ -1,0 +1,4 @@
+fmeResource:
+  name: new_gitsync
+  trafficType: user
+  rolloutStatus: Pre-Production
